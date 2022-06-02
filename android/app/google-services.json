@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87216574308",
+    "project_id": "pandarosh-91270",
+    "storage_bucket": "pandarosh-91270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87216574308:android:71e72665c2c54584b6f471",
+        "android_client_info": {
+          "package_name": "com.pandarosh.pandarosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87216574308-pq2k6di3lc2lbh13e9mngm74jp2c3f1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3zgJz8SN9DZJyXk3pFE2UCklK9TGgGiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87216574308-pq2k6di3lc2lbh13e9mngm74jp2c3f1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
